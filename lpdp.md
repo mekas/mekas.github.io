@@ -52,9 +52,10 @@ A. Tidak ada larangan tentang hal ini di islam. Setahu saya, MUI juga tidak meng
 
 Penulis tidak hafal urutan pertanyaan, mungkin bisa tertukar. Namun penulis masih ingat pertanyaan pertama yang ditanya adalah sholat dan pertanyaan terakhir tentang transfusi darah. Pertanyaan ini adalah pertanyaan yang seharusnya untuk menguji Nasionalisme dan Psikologi. Tidak ada pertanyaan lain di luar ini untuk sesi tersebut. Pertanyaan terkait topik akademik dan riset, insya Allah penulis menjawab dengan baik dengan Bahasa Inggris yang lancar. Pada 29 Desember 2018, didapatkan kabar bahwa penulis tidak lulus seleksi substansi. Hari itu juga penulis meminta rincian skor, kemudian dibalas pada 3 january 2019 dengan rincian skor berikut. 
 
-LGD: 174
-Wawancara: 390
-Total: 564
+| Sesi | Skor | 
+| LGD | 174 |
+| Wawancara| 390 |
+| Total | 564 |
 
 Penulis drop pada wawancara, karena skor wawancara ini akumulasi dari 3 orang. Per orang hanya memberikan kontribusi 130, jauh lebih kecil dari LGD. Saat ini penulis menempuh upaya legal untuk mendapatkan catatan skor penilaian yang ditandatangani oleh pewawancara melalui PPID. Namun baru akan mendapat jawaban dalam kurun 3 bulan. Wawancara dilakukan secara parallel per 20 orang, terdapat 20 tim pewawancara untuk 20 orang peserta. 
 
