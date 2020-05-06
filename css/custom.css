@@ -1,0 +1,68 @@
+#background{
+    background-image: url("../img/google.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    height: 300px
+}
+
+.no-margin-bottom{
+    margin-bottom: 0px;
+}
+
+.pad-bottom{
+    padding-bottom: 20px;
+}
+
+.pad-all{
+    padding: 20px;
+}
+
+.pad-left{
+    padding-left: 20px;
+}
+
+div.row.margin-top div.col.l6 div.row div.margin-left.pad-all.margin-top div.col.s12 div.row div.col.s6{
+    margin-top: 20px;
+}
+
+.margin-left{
+    margin-left: 20px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: grey;
+  opacity: 1; /* Firefox */
+}
+
+nav.nav-center li {
+    display: inline;
+    float: none;
+}
+nav.nav-center li a {
+    display: inline-block;
+}
+
+nav.nav-center li a input {
+    display: inline-block;
+}
+
+ /* unvisited link */
+nav.nav-center li a:link {
+  color: black;
+}
+
+/* visited link */
+nav.nav-center li a:visited {
+  color: green;
+}
+
+/* mouse over link */
+nav.nav-center li a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+nav.nav-center li a:active {
+  color: blue;
+} 
